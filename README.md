@@ -1,3 +1,1 @@
-# firstryProject
-first try project
-tesst
+deneme
